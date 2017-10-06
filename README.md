@@ -1,0 +1,1 @@
+This is a neat little Java program to draw a pattern on a set of coordinate axes. Essentially straight lines in each quadrant where sum of the intercepts is a constant number; those lines together look like they form a curve. Uses the PennDraw Java library for graphics.
